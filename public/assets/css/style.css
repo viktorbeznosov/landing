@@ -528,7 +528,7 @@ a.contact_btn:hover {
 }
 
 img {
-    max-width: 100%;
+    max-width: 55px;
 }
 
 /* no transition on .isotope container */
